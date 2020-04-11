@@ -6,7 +6,7 @@ A pure implemantation without the built-in function from linalg library svd().
 A little bit theory :
 The SVD is a remarkable matrices decomposition using to several uses such as :
 1) Rigid transformation .
-2) In machine learning field - PCA algorithm to reduce number of features .
+2) In Machine Learning field - PCA algorithm to reduce number of features .
 3) Statistics field .
 
 # The 3 returned matrices form the decomposition are :
