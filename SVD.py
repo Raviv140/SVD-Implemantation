@@ -1,6 +1,6 @@
 import numpy as np
 import sympy as sy
-
+# Created by Raviv Herrera 
 #Three examples to try : 
 # A = np.array([[1, 1], [0, 1], [-1, 1]])
 # A = np.array([[1, 0, 1], [0, 1, 0], [0, 1, 1], [0, 1, 0], [1, 1, 0]])
