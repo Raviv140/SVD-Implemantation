@@ -2,9 +2,9 @@
 A python implemantation of the Singular Values Decomposition (SVD) 
 A pure implemantation without the built-in function from linalg library svd().
 The SVD is a remarkable matrices decomposition using to several uses such as :
-1) Rigid transformation
-2) In machine learning field 
-3) In PCA algorithm to reduce number of features . 
+1) Rigid transformation .
+2) In machine learning field - PCA algorithm to reduce number of features .
+3) Statistics field .
 
 ## The function it self : 
 
